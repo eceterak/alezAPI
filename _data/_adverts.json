@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "5ee9432e34526820eb07e2d1",
+    "title": "Ladny pokoj w Krakowie",
+    "description": "Pokoj w Krakowie na wynajem od zaraz",
+    "address": "Bialopradnicka 24C Krakow, Poland",
+    "size": "jednoosobowy",
+    "cost": "1000",
+    "billsIncluded": true,
+    "city": "5ee9432e34526820eb07e2c1",
+    "user": "5eebeec07062e34af8d66378"
+  },
+  {
+    "_id": "5ee9432e34526820eb07e2d4",
+    "title": "Ladny pokoj w Wieliczce",
+    "description": "Pokoj w Wieliczce na wynajem od zaraz",
+    "address": "Kościuszki 20 Wieliczka, Poland",
+    "size": "jednoosobowy",
+    "cost": "1000",
+    "billsIncluded": true,
+    "city": "5ee9432e34526820eb07e2c5",
+    "user": "5eebeec07062e34af8d66355"
+  },
+  {
+    "_id": "5ee9432e34526820eb07e2d3",
+    "title": "Ladny pokoj w Warszawie",
+    "description": "Pokoj w Warszawie na wynajem od zaraz",
+    "address": "Rolanda Warszawa, Poland",
+    "size": "trzyosobowy lub wiekszy",
+    "cost": "1200",
+    "billsIncluded": true,
+    "city": "5ee9432e34526820eb07e2c2",
+    "user": "5eebeec07062e34af8d66378"
+  },
+  {
+    "_id": "5ee9432e34526820eb07e2d7",
+    "title": "Ladny pokoj w Poznaniu",
+    "description": "Pokoj w Poznaniu na wynajem od zaraz",
+    "address": "Matejki Poznan, Poland",
+    "size": "dwuosobowy",
+    "cost": "800",
+    "billsIncluded": true,
+    "city": "5ee9432e34526820eb07e2c4",
+    "user": "5eebeec07062e34af8d66378"
+  },
+  {
+    "_id": "5ee9432e34526820eb07e2d9",
+    "title": "Ladny pokoj w Katowicach",
+    "description": "Pokoj w Katowicach na wynajem od zaraz",
+    "address": "Nadgórników Katowice, Poland",
+    "size": "jednoosobowy",
+    "cost": "600",
+    "billsIncluded": true,
+    "city": "5ee9432e34526820eb07e2c3",
+    "user": "5eebeec07062e34af8d66355"
+  }
+]

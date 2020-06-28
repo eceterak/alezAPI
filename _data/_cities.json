@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "5ee9432e34526820eb07e2c1",
+    "name": "Kraków",
+    "location": {
+      "type": "Point",
+      "coordinates": [19.937956, 50.062936]
+    }
+  },
+  {
+    "_id": "5ee9432e34526820eb07e2c2",
+    "name": "Warszawa",
+    "location": {
+      "type": "Point",
+      "coordinates": [21.017891, 52.286370]
+    }
+  },
+  {
+    "_id": "5ee9432e34526820eb07e2c3",
+    "name": "Katowice",
+    "location": {
+      "type": "Point",
+      "coordinates": [18.968509, 50.315890]
+    }
+  },
+  {
+    "_id": "5ee9432e34526820eb07e2c4",
+    "name": "Poznań",
+    "location": {
+      "type": "Point",
+      "coordinates": [16.910898, 52.462234]
+    }
+  },
+  {
+    "_id": "5ee9432e34526820eb07e2c5",
+    "name": "Wieliczka",
+    "location": {
+      "type": "Point",
+      "coordinates": [20.055080, 49.967626]
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "5eebeec07062e34af8d66378",
+    "name": "marek",
+    "email": "marek@pog.com",
+    "password": "123456",
+    "role": "user"
+  },
+  {
+    "_id": "5eebeec07062e34af8d66355",
+    "name": "andrzej",
+    "email": "andrzej@pog.com",
+    "password": "123456",
+    "role": "user"
+  }
+]
